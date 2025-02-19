@@ -12,6 +12,7 @@ Machine Learning Cohort
 
 # Skills
 **Tools** : Microsoft Office, Google Workspace, Jupyter Notebook, Google Colab, Tableau, MySQL, SQL Server, GitHub
+
 **Hard Skills**: Basic Python Programming, SQL Database Query, Data Visualization, Basic Machine Learning Modeling, Microsoft Excel
 
 ## 💌 Contact
