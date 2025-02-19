@@ -6,7 +6,8 @@ Hi I’m @mfatarsyah! 👋 I'm a data enthusiast passionate about Data Science, 
 
 # Experience
 Bangkit Academy 2024 by Google, GoTo, Tokopedia, Traveloka
-Machine Learning Cohort
+
+**Machine Learning Cohort**
 - Implemented machine learning algorithms for object detection in the capstone project.
 - Specialized in machine learning and deep learning using TensorFlow.
 
